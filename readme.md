@@ -1,17 +1,3 @@
-## Overview
-
-This project is a React-based web application that uses Tailwind CSS for styling. It features interactive components, animations via Framer Motion, and responsive design.
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-```bash
-git clone <repository_url>
-cd <project_directory>
-npm install
-```
-
 ### Running the Project
 
 Start the development server with:
