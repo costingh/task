@@ -78,6 +78,7 @@ The average number of social media links extracted per successfully scraped webs
   "socialFillRate": "2.40",
   "data": [...]
 }
+```
 
 ## Data Retrieval
 
